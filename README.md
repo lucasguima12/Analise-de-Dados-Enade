@@ -17,6 +17,10 @@ Dados dos Cursos: Informações sobre o curso, a instituição de ensino, a áre
 
 Questionário do Estudante: O ENADE também inclui um questionário que os estudantes devem preencher, que fornece informações sobre a percepção dos alunos em relação à formação acadêmica, infraestrutura, práticas pedagógicas, entre outros.
 
+
+## Objetivo da Análise:
+Analisar a distribuição de notas dos concluintes de cursos de licenciatura no Brasil e elaborar indicadores de qualidade a partir das notas observadas.
+
 ## Principais Análises Realizadas
 #### Análise de notas.
 #### Análise de notas por estado.
